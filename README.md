@@ -1,2 +1,2 @@
 # MyPokedex
-Para compartir prueba de código con Accenture Interactive
+Pokedex App with API call, core data, tests and VIPER architecture
